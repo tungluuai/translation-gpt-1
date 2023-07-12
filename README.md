@@ -13,7 +13,7 @@
 - Đồ án "Neural Machine Translation With GPT-1" là một dự án trong lĩnh vực dịch máy sử dụng mô hình GPT-1 với mô hình Transformer là bộ khung chính. Mục tiêu chính của dự án là xây dựng một hệ thống dịch máy tự động hiệu quả dựa trên việc phân tích bài báo: "Improving Language Understanding by Generative Pre-Training" - Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever.
 
 Trình bày sơ lược đồ án.
--	Mục tiêu: dịch từ tiếng Anh ( English ) sang tiếng Việt ( Vietnamese )
+-	Mục tiêu: dịch từ tiếng Anh ( English ) sang tiếng Việt ( Vietnamese ) với độ dài 128 ký tự.
 
 ## Công nghệ sử dụng 
 Ngôn ngữ: Python
