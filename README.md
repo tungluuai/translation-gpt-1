@@ -4,7 +4,7 @@
   <h3 align="center">TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH</h3>
 
   <p align="center">
-    Neural Machine Translation With GPT-1
+    NEURAL MACHINE TRANSLATION WITH GPT-1
     <br />
 </div>
 
